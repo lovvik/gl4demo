@@ -1,5 +1,4 @@
-Auteur : Loïc Amagli | L2 X Info
-N° etudiant : 22007062
+Auteur : Loïc Amagli
 
 
 Remarque ! : Merci de vérifier les includes des différents fichiers.
